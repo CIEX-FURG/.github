@@ -1,8 +1,10 @@
 # Centro Interinstitucional de Observação e Previsão de Eventos Extremos (CIEX)
 
-![CIEX Logo](https://img.shields.io/badge/CIEX-Tecnologias%20para%20Enfrentamento%20aos%20Eventos%20Extremos-blue)
-![FURG](https://img.shields.io/badge/FURG-Universidade%20Federal%20do%20Rio%20Grande-green)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="./assets/ciex-logo.jpeg" alt="CIEX Logo" width="170" style="border-radius:50%">
+  <img src="./assets/furg-logo.png" alt="FURG Logo" width="150">
+</div>
+
 
 ## 🌊 Sobre o CIEX
 
