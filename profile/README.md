@@ -30,7 +30,7 @@ Implementar em Rio Grande o **Digital Twin Lagoa dos Patos (DT-LAGOA)** como uma
 
 ## 📞 Contato
 
-**Website**: [https://www.furg.br/eventos-extremos](https://www.furg.br/eventos-extremos)
+[**Website**](https://sites.google.com/view/gpea-furg/projetos/em-andamento/ciex-furg)
 
 ---
 
