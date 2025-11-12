@@ -1,7 +1,7 @@
 # Centro Interinstitucional de Observação e Previsão de Eventos Extremos (CIEX)
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="./assets/ciex-logo.jpeg" alt="CIEX Logo" width="170" style="border-radius:50%">
+  <img src="./assets/013.png" alt="CIEX Logo" width="170" style="border-radius:50%">
   <img src="./assets/furg-logo.png" alt="FURG Logo" width="150">
 </div>
 
