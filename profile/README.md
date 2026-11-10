@@ -5,39 +5,24 @@
   <img src="./assets/furg-logo.png" alt="FURG Logo" width="150">
 </div>
 
+## Sobre o CIEX
 
-## 🌊 Sobre o CIEX
+O Centro Interinstitucional de Observação e Previsão de Eventos Extremos (CIEX), sediado na Universidade Federal do Rio Grande (FURG), reúne pesquisadores e instituições parceiras para desenvolver soluções de monitoramento, modelagem e previsão de eventos extremos.
 
-O **Centro Interinstitucional de Observação e Previsão de Eventos Extremos (CIEX)** é uma iniciativa inovadora da Universidade Federal do Rio Grande (FURG) para desenvolver **ferramentas tecnológicas avançadas** que fortalecem e protegem nossas cidades contra eventos extremos.
+O Centro integra dados meteorológicos, hidrológicos e oceanográficos a modelos computacionais e ferramentas digitais, contribuindo para a compreensão dos fenômenos ambientais, a gestão de riscos e o apoio à tomada de decisão no Rio Grande do Sul.
 
-### 🎯 Missão
-Implementar tecnologias para enfrentamento aos eventos extremos através de:
-- **Resiliência** 🛡️
-- **Proteção** 🏘️ 
-- **Trabalho Inteligente** 🧠
+## Áreas de atuação
 
----
+- **Monitoramento ambiental:** coleta, integração e disponibilização de dados de redes de observação.
+- **Modelagem e previsão:** desenvolvimento e aplicação de modelos meteorológicos, hidrológicos, oceanográficos e hidrodinâmicos.
+- **Desenvolvimento tecnológico:** criação de plataformas digitais para análise, simulação e visualização de dados ambientais.
+- **Gestão de riscos:** produção de informações técnicas para subsidiar ações de prevenção, planejamento e resposta a eventos extremos.
 
-## 🚀 Objetivo Principal
+## Links e contato
 
-Implementar em Rio Grande o **Digital Twin Lagoa dos Patos (DT-LAGOA)** como uma ferramenta em tempo real para:
-- Avaliação e prognóstico de eventos extremos
-- Mitigação de impactos 
-- Análise de projetos estruturais na região sul do Rio Grande do Sul
+- **Site oficial:** [ciex.org.br](https://ciex.org.br)
+- **E-mail:** [contato@ciex.org.br](mailto:contato@ciex.org.br)
 
 ---
 
-
-## 📞 Contato
-
-[**Website**](https://sites.google.com/view/gpea-furg/projetos/em-andamento/ciex-furg)
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença da Universidade Federal do Rio Grande (FURG).
-
----
-
-*"Ferramentas para fortalecer e proteger nossas cidades contra eventos extremos"* 🌊🛡️
+Universidade Federal do Rio Grande (FURG) — Rio Grande, RS, Brasil.
